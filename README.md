@@ -2,7 +2,7 @@
 Data wrangling and analysis on WeRateDog twitter archive data
 
 # Dataset
-> The dataset that I will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. 
+> The dataset that I will be wrangling (analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. 
 
 
 # Summary of Findings
